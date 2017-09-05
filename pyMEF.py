@@ -1,4 +1,10 @@
-#Lib import
+##Name: pythonbbb
+##Author: David Velasquez
+##Date: 4/09/2017
+##Description: Example using FSM with time library and "switch" replacements.
+##This program runs a simple blinking FSM for turning ON and OFF USR LEDs.
+
+#Library imports
 import time
 import Adafruit_BBIO.GPIO as GPIO
 
@@ -53,4 +59,3 @@ while True:
                         print "State: ELOFF"
                         state = ELOFF
                         lastTime = time.clock()
-
