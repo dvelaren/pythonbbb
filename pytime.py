@@ -1,3 +1,8 @@
+##Name: pytime
+##Author: David Velasquez
+##Date: 04/09/2017
+##Description: This program uses relative timing calculations to blink USR LEDs
+
 #Lib import
 import time
 import Adafruit_BBIO.GPIO as GPIO
