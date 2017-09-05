@@ -1,4 +1,4 @@
-##Name: pythonbbb
+##Name: pyMEF
 ##Author: David Velasquez
 ##Date: 4/09/2017
 ##Description: Example using FSM with time library and "switch" replacements.
